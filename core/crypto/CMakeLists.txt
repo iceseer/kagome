@@ -90,7 +90,7 @@ kagome_install(
 
 add_library(typed_key_storage
     typed_key_storage/typed_key_storage_impl.cpp
-    key_type.cpp
+        typed_key_storage/key_type.cpp
     )
 target_link_libraries(typed_key_storage
     Boost::boost

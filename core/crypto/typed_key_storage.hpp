@@ -6,7 +6,7 @@
 #ifndef KAGOME_TYPED_KEY_STORAGE_HPP
 #define KAGOME_TYPED_KEY_STORAGE_HPP
 
-#include "crypto/key_type.hpp"
+#include "crypto/typed_key_storage/key_type.hpp"
 
 #include <boost/optional.hpp>
 

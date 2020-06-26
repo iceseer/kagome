@@ -14,12 +14,10 @@
 #include "crypto/bip39/mnemonic.hpp"
 #include "crypto/ed25519_provider.hpp"
 #include "crypto/hasher.hpp"
-#include "crypto/key_type.hpp"
 #include "crypto/secp256k1_provider.hpp"
 #include "crypto/sr25519_provider.hpp"
 #include "crypto/typed_key_storage.hpp"
-#include "runtime/wasm_result.hpp"
-#include "scale/scale.hpp"
+#include "crypto/typed_key_storage/key_type.hpp"
 #include "runtime/wasm_result.hpp"
 #include "scale/scale.hpp"
 

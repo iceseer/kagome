@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-#include "crypto/key_type.hpp"
+#include "key_type.hpp"
 
 #include <unordered_set>
 
